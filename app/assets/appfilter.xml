@@ -2798,6 +2798,7 @@
   <item component="ComponentInfo{com.memoria.photos.gallery/com.memoria.photos.gallery.activities.MainActivity}" drawable="memoria" name="Memoria" />
   <item component="ComponentInfo{io.github.huskydg.memorydetector/io.github.huskydg.memorydetector.MainActivity}" drawable="memorydetector" name="MemoryDetector" />
   <item component="ComponentInfo{hu.donmade.menetrend.budapest/hu.donmade.menetrend.gui.BootstrapActivity}" drawable="menetrendapp" name="menetrend.app" />
+  <item component="ComponentInfo{com.mephi.corporatemephi/com.mephi.corporatemephi.MainActivity}" drawable="mephi" name="MEPhI"/> 
   <item component="ComponentInfo{com.mercadolibre/com.mercadolibre.splash.SplashActivity}" drawable="mercado_libre" name="Mercado Libre" />
   <item component="ComponentInfo{com.mercadolibre/com.mercadolibre.activities.SplashActivity}" drawable="mercado_libre" name="Mercado Libre" />
   <item component="ComponentInfo{com.mercadopago.wallet/com.mercadopago.wallet.AccountSummaryActivity}" drawable="mercado_pago" name="Mercado Pago" />
